@@ -58,14 +58,20 @@
         	</div>
         	
         </div>
-        <h1 class="mb-5 text-light">CAREER OBJECTIVE</h1>
+        <h1 class="mb-5 text-light">WORK EXPERIENCE</h1>
         <div class="mb-5">
+			<div class="title">August 2019 - October 2019</div>
             <div class="well">
-	            <p class="desc text-light">
-	            	Hard-working student with proven leadership and organizational skills, and minute attention to detail. Seeking to apply my abilities to fill the internship role in your company. I am a dedicated team player who can be relied upon to help your company achieve its goals.
-	        	</p>
-	         </div>
-            	
+	            <h3 class="text-success">Working remotely</h3>
+	            <p class="desc">Intern hotels.ng</p>
+	        </div>	
+		</div>
+		<div class="mb-5">
+			<div class="title">Septmber 2019 - October 2019</div>
+            <div class="well">
+	            <h3 class="text-success">Working remotely</h3>
+	            <p class="desc">DevCTrainingWithAndela Intern</p>
+	        </div>	
         </div>
         <h1 class="mb-5 text-light">
         	<!-- <img src="img/projects.png" height="40" width="40"> -->
@@ -110,48 +116,8 @@
 	            	</div>
 	            </li>
             </ul>
-        </div>
-
-        <h1 class="mb-5 text-light">
-        	<i class="fas fa-user"></i>
-        	PERSONAL PROFILE
-        </h1>
-        <div class="mb-5">
-        	<ul class="resume-list">
-	            <li>
-	            	<div class="title">Date of Birth </div>
-	            		<div class=" well">
-	            			<p>23rd Oct 1995</p>
-	            		</div>
-	            	
-	            </li>
-	            <li>
-	            	<div class="title">Marital Status </div>
-	            	<div class="well">
-	            		<p>Single</p>
-	            	</div>
-	            </li>
-	            <li>
-	            	<div class="title">Nationality </div>
-	            	<div class="well">
-	            		<p>Nigeria</p>
-	            	</div>
-	            </li>
-	            <li>
-	            	<div class="title">Known Languages </div>
-	            	<div class="well">
-	            		<p>Igbo, English</p>
-	            	</div>
-	            </li>
-	            <li>
-	            	<div class="title">Hobbies </div>
-	            	<div class="well">
-	            		<p>Reading, play Computer games, and Traveling</p>
-	            	</div>
-	            </li>
-			</ul>
 		</div>
-
+		
 		<h1 class="mb-5 text-light">
 			<i class="fas fa-book"></i>
 			MY FULL RESUME / CV
