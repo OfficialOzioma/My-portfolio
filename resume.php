@@ -125,7 +125,7 @@
 		<div class="mb-5">
 			<div class="title">Resume / CV </div>
 			<div class="well">
-				<p>View my Resume / CV <a href="https://bit.ly/ozioma-cv" target="blank">here</a> in PDF format</p>
+				<p>View my Resume / CV <a href="https://drive.google.com/file/d/1t1eetprxKa1O1keXUReRnZrzewln2Oaw/view?usp=sharing" target="blank">here</a> in PDF format</p>
 			</div>
 		</div>
 			

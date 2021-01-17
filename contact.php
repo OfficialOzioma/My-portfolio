@@ -1,5 +1,5 @@
 <?php include("include/header.php");?>
-    <main>
+<main>
 	<a href="index.php" class="home-button"><span class="fas fa-home" style="font-size: 40px; color:#bc5148;"></span></a><br />
     	<h1 class="mb-5">Contact Me</h1>
         <form action="#" method="post">

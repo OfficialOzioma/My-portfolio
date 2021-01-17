@@ -5,29 +5,50 @@
         <div class="mb-5">
         	<ul class="portfolio-list">
 	            <li>
-	            	<a href="#">
-	                	<img src="img/logo2.jpg" alt="">
+	            	<a href="https://testbusinessdirectory.herokuapp.com/" target="_blank">
+	                	<img src="img/business_dir.jpg" alt="">
 		                <div class="text">
-		                	<h3>Design and implementation of a Website for All Believers Gospel Mission</h3>
-		                	<span>allbelievergospelmission.com</span>
+		                	<h3>Business directory built with Laravel 8</h3>
+		                	<span>
+		                		<button class="btn btn-primary">
+		                			<strong> 
+		                			<i class="fas fa-globe"></i>
+		                			Open Link
+		                			</strong> 
+		                		</button>
+		                	</span>
 		                </div>
 	            	</a>
 	            </li>
 	            <li>
-	            	<a href="#">
-	                	<img src="img/img_2.jpg" alt="">
+	            	<a href="https://github.com/OfficialOzioma/laravel-link-shortern" target="_blank">
+	                	<img src="img/linkshorten.png" alt="">
 	                	<div class="text">
-	                  		<h3>Project Name</h3>
-	                  		<span>Visit Website</span>
+	                  		<h3>A Laravel script that shortens any link you passed in</h3>
+	                  		<span>
+		                		<button class="btn btn-primary">
+		                			<strong> 
+		                			<i class="fas fa-globe"></i>
+		                			Open Link
+		                			</strong> 
+		                		</button>
+		                	</span>
 	                	</div>
 	            	</a>
 	            </li>
             	<li>
-            		<a href="#">
-                		<img src="img/img_3.jpg" alt="">
+            		<a href="https://github.com/OfficialOzioma/bitcoin-trading" target="_blank">
+                		<img src="img/Bitcoin_wallet.png" alt="">
                 		<div class="text">
-                  			<h3>Project Name</h3>
-                  			<span>Visit Website</span>
+                  			<h3>Bitcoin wallet for trading bitcoin, it's built with Laravel, it enables easy trading of bitcoin.</h3>
+                  			<span>
+                  				<button class="btn btn-primary">
+		                			<strong> 
+		                			<i class="fas fa-globe"></i>
+		                			Open Link
+		                			</strong> 
+		                		</button>
+                  			</span>
                 		</div>
               		</a>
             	</li>
